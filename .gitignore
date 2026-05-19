@@ -1,0 +1,4 @@
+trading_app/data/
+node_modules/
+*.log
+dist/
