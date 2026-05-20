@@ -1,0 +1,8 @@
+uploads = []
+generated = []
+
+[[outputs]]
+id = "GY3dyCCil2ANzaeTCcyWO"
+uri = "file://money-machine-tradingship.tar.gz"
+type = "unspecified"
+title = "Money Machine + AI System (587 KB)"

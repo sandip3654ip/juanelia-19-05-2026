@@ -1,0 +1,2 @@
+artifacts/api-server/data/spot-profit-history.json filter=lfs diff=lfs merge=lfs -text
+artifacts/api-server/data/spread-history.json filter=lfs diff=lfs merge=lfs -text
